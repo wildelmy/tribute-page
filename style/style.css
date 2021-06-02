@@ -1,0 +1,35 @@
+#title{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0);
+    margin-bottom: 40px;
+    color: rgb(255, 0, 128);
+
+}
+body{
+    margin-top: 50px;
+    background-color:rgba(255, 228, 196, 0.904);
+    font-family:cursive;
+}
+
+#main{
+    margin-left:auto;
+    margin-right: auto;
+    text-align:justify;
+    max-width: 900px;
+
+}
+
+#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 100%;
+    max-width: 500px;
+}
+
+
+
